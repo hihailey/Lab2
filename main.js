@@ -1,5 +1,5 @@
 var readlineSync = require('readline-sync');
-var test = require("./test");
+var test = require("./lab-three");
  // Call the test file
 
 console.log("This is a calendar of 2020 ! ")
